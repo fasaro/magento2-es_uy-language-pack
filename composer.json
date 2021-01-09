@@ -1,0 +1,17 @@
+{
+    "name": "fasaro/magento2-es_uy-language-pack",
+    "description": "Spanish (Uruguay) language package for Magento 2",
+    "version": "2.4.0",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "magento/framework": "*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+      "files": [
+        "registration.php"
+      ]
+    }
+}
